@@ -1,4 +1,21 @@
-# Diretrizes de Contribuição
+# Diretrizes para Contribuição - NeroBot
+
+Obrigado pelo seu interesse em contribuir para o NeroBot! Este documento fornece as diretrizes para contribuir com o projeto de forma efetiva.
+
+## Como Contribuir
+
+### Preparando o Ambiente
+
+1. Faça um fork do repositório em [https://github.com/AnthonyVeras/NeroBot](https://github.com/AnthonyVeras/NeroBot)
+2. Clone seu fork localmente:
+   ```bash
+   git clone https://github.com/SEU-USUARIO/NeroBot.git
+   cd NeroBot
+   ```
+3. Configure o upstream remote:
+   ```bash
+   git remote add upstream https://github.com/AnthonyVeras/NeroBot.git
+   ```
 
 ## Introdução
 

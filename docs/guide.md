@@ -12,8 +12,8 @@
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nerobot.git
-   cd nerobot
+   git clone https://github.com/AnthonyVeras/NeroBot.git
+   cd NeroBot
    ```
 
 2. Instale as dependências:

@@ -4,6 +4,18 @@
 
 Este documento registra as principais mudanças realizadas durante a migração do NeroBot de JavaScript para TypeScript. O objetivo é fornecer uma visão clara das alterações implementadas, suas motivações e impactos no sistema.
 
+## Alterações Recentes
+
+### Correção do Repositório (15/03/2024)
+
+- **Alteração**: Mudança do nome do repositório de NeroBotApp para NeroBot
+- **Motivação**: Manter consistência com o nome real do projeto e evitar confusão
+- **Detalhes da Implementação**: 
+  - Recriação do repositório com o nome correto
+  - Atualização das referências na documentação
+  - Configuração adequada do .gitignore para excluir arquivos desnecessários (incluindo .cursor/rules/)
+  - Transferência de todos os arquivos para o novo repositório mantendo o histórico de commits
+
 ## Comparação Antes/Depois
 
 ### Estrutura do Projeto

@@ -126,6 +126,15 @@ gantt
 | Versão 4.0 | Dezembro 2024 | Lançamento com integração de APIs e dashboard beta | Não iniciado | Framework de APIs e primeiras telas do dashboard |
 | Versão 4.5 | Março 2025 | Lançamento com recursos avançados de IA e automação | Não iniciado | Integração com IA e sistema de automação |
 
+## Marcos Recentes
+
+### Marco: Finalização da Migração TypeScript (Março 2024)
+- ✅ Conclusão da migração de todos os arquivos JavaScript para TypeScript
+- ✅ Implementação completa do sistema de tipos em todo o projeto
+- ✅ Testes e verificação de compatibilidade
+- ✅ Correção do nome do repositório (de NeroBotApp para NeroBot)
+- ✅ Atualização da documentação para refletir as alterações
+
 ## Estratégia de Crescimento
 
 ### Comunidade
