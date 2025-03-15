@@ -1,0 +1,30 @@
+{
+  "name": "nero-bot",
+  "version": "3.0.0",
+  "description": "Um bot de WhatsApp multifunções.",
+  "main": "./dist/index.js",
+  "scripts": {
+    "start": "node ./dist/index.js",
+    "dev": "ts-node-dev --respawn --transpile-only src/index.ts",
+    "build": "tsc",
+    "test": "node ./dist/test.js",
+    "watch": "tsc --watch"
+  },
+  "keywords": [],
+  "author": "Anthony",
+  "license": "ISC",
+  "dependencies": {
+    "@cacheable/node-cache": "^1.5.3",
+    "axios": "^1.7.7",
+    "baileys": "6.7.16",
+    "correios-brasil": "^3.0.6",
+    "hercai": "^12.4.0",
+    "pino": "^9.5.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.10",
+    "ts-node": "^10.9.2",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.8.2"
+  }
+}

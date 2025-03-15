@@ -1,0 +1,42 @@
+# Dependências
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Arquivos de build
+dist/
+build/
+*.tsbuildinfo
+
+# Arquivos de ambiente
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Cache
+.npm
+.eslintcache
+.node_repl_history
+
+# Diretórios temporários
+tmp/
+temp/
+
+# Arquivos de autenticação e sessão
+assets/auth/
+
+# Logs
+logs
+*.log
+
+# Diretórios do sistema
+.DS_Store
+Thumbs.db
+
+# Editores e IDEs
+.idea/
+assets/auth/baileys
+.vscode
