@@ -38,5 +38,6 @@ Thumbs.db
 
 # Editores e IDEs
 .idea/
+.cursor/rules/
 assets/auth/baileys
 .vscode
